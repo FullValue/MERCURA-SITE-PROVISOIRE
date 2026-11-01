@@ -1,0 +1,34 @@
+MERCURA PARIS - SITE VITRINE (version de production, octobre 2026)
+=================================================================
+
+Site statique (HTML, CSS, JavaScript) : aucun PHP, aucune base de donnees, aucune installation.
+Contient uniquement la version actuelle du site (anciennes images et fichiers de test retires).
+
+MISE EN LIGNE
+1. Copier TOUT le contenu de ce dossier a la racine web du domaine (ex. public_html/ chez Hostinger).
+   Ne pas copier ce fichier LISEZ-MOI.txt.
+2. Redirections 301 des anciennes adresses WordPress :
+   - Apache / LiteSpeed (Hostinger) : placer redirections/.htaccess a la racine web
+     (fusionner avec un .htaccess existant si besoin).
+   - Netlify / Cloudflare Pages : le fichier _redirects a la racine est lu automatiquement.
+   La table complete est dans redirections/redirections.csv.
+3. Activer HTTPS et la compression gzip/brotli chez l'hebergeur.
+4. Soumettre https://mercuraparfums.com/sitemap.xml dans Google Search Console.
+
+REGLAGES (assets/js/config.js, modifiable sans rien regenerer sauf mention contraire)
+- environment : 'production' (deja regle).
+- whatsapp.number : numero qui recoit les commandes.
+- contactForm.web3formsKey : cle Web3Forms pour l'envoi automatique du formulaire de contact
+  (vide = le formulaire ouvre la messagerie du visiteur). Necessite de regenerer les pages.
+- legal : SIRET, forme juridique, etc. pour les mentions legales. Necessite de regenerer les pages.
+- tracking.ga4Id / adsId : identifiants Google Analytics et Google Ads (vides = aucune balise).
+
+COMMANDES
+Les commandes sont envoyees par WhatsApp (aucun paiement sur le site).
+
+A SAVOIR
+- /admin/ et /compte/ sont une maquette : les donnees sont stockees dans le navigateur de chaque
+  visiteur (localStorage) et ne sont pas partagees. Ces pages ne sont pas indexees (robots.txt).
+  Une vraie administration necessite un serveur (voir docs/MISE-EN-LIGNE.md dans le projet source).
+- Le site est genere a partir du projet source (dossiers tools/, data/, media/). Pour toute
+  modification de contenu, modifier le projet source puis regenerer : ce dossier n'est que le resultat.

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /panier/
+Disallow: /commande/
+Disallow: /compte/
+Disallow: /admin/
+
+Sitemap: https://mercuraparfums.com/sitemap.xml

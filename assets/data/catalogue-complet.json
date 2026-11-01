@@ -1,0 +1,2243 @@
+{
+ "generatedAt": "2026-10-29T18:07:47.417Z",
+ "source": "snapshot",
+ "fetchedAt": null,
+ "products": [
+  {
+   "id": "11392",
+   "sku": null,
+   "slug": "amour-supreme",
+   "nom": "Amour suprême",
+   "nomWoo": "Amour suprême",
+   "ancienneUrl": "https://mercuraparfums.com/product/amour-supreme/",
+   "prix": 85,
+   "prixBarre": 98,
+   "prixPromo": 85,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 1,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Fleurs blanches, fruits frais et noix de coco.",
+   "description": [
+    "Amour suprême s'ouvre sur la fraîcheur du citron, de la pêche et de la pastèque, un départ lumineux et juteux.",
+    "Le cœur déploie un bouquet de fleurs blanches et solaires : ylang-ylang, jasmin, tubéreuse, accompagnés de la rose.",
+    "En fond, la noix de coco et la vanille s'adossent au musc, à l'ambre et au patchouli pour un sillage enveloppant."
+   ],
+   "voyage": "Son flacon reprend le rouge du golfe Arabique, l'une des couleurs qui ont inspiré la collection.",
+   "notes": {
+    "tete": [
+     "citron",
+     "pêche",
+     "pastèque"
+    ],
+    "coeur": [
+     "ylang-ylang",
+     "jasmin",
+     "tubéreuse",
+     "rose"
+    ],
+    "fond": [
+     "noix de coco",
+     "musc",
+     "ambre",
+     "patchouli",
+     "vanille"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "fruits"
+   ],
+   "images": [
+    {
+     "file": "amour-supreme-campagne-v1.png",
+     "path": "ia/amour-supreme-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "amour-supreme-texture-v1.png",
+     "path": "ia/amour-supreme-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "amour-supreme-flacon.jpg",
+     "path": "dossier/amour-supreme-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "amour-supreme-etui.jpg",
+     "path": "dossier/amour-supreme-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "amour-supreme-ambiance.jpg",
+     "path": "dossier/amour-supreme-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    }
+   ],
+   "ordre": 1,
+   "selection": true,
+   "avis": {
+    "nombre": 13,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 133,
+      "date": "2024-07-28T04:52:23",
+      "auteur": "Cisse mariam",
+      "note": 5,
+      "verifie": false,
+      "texte": "Je vous conseille ce parfum depuis USA et vraiment c’est mon coupe coeur ❤️"
+     },
+     {
+      "id": 120,
+      "date": "2024-04-10T12:49:40",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Incroyable senteur un vrais amour de parfum"
+     },
+     {
+      "id": 108,
+      "date": "2023-10-05T22:21:57",
+      "auteur": "Coura",
+      "note": 5,
+      "verifie": false,
+      "texte": "smell very good 🙏"
+     },
+     {
+      "id": 104,
+      "date": "2023-10-05T17:52:36",
+      "auteur": "Ndeye gueye",
+      "note": 5,
+      "verifie": false,
+      "texte": "incredible scent this perfumer and just incredible his range of perfumes and just incredible I really like from New York"
+     },
+     {
+      "id": 103,
+      "date": "2023-10-04T23:51:27",
+      "auteur": "Ndeye",
+      "note": 5,
+      "verifie": false,
+      "texte": "Un amour vraiment suprême parfum floral très classe ❤️😍🔥"
+     },
+     {
+      "id": 96,
+      "date": "2023-09-27T00:29:10",
+      "auteur": "Aramata",
+      "note": 5,
+      "verifie": false,
+      "texte": "Smells amazing"
+     },
+     {
+      "id": 94,
+      "date": "2023-09-25T00:41:33",
+      "auteur": "Balla Dione",
+      "note": 5,
+      "verifie": false,
+      "texte": "Ce parfums et tout simplement incroyable une odeur envoûtante je le recommande fortement et sérieusement 🥰🥰❤️❤️"
+     },
+     {
+      "id": 91,
+      "date": "2023-09-19T00:10:21",
+      "auteur": "Stephane",
+      "note": 5,
+      "verifie": false,
+      "texte": "All flavors are hot, he got the best I said and I repeat shop shop shop All parfums r fire 🔥 All the way from NYC u Hurd no cap ❤️🙏🏾"
+     },
+     {
+      "id": 80,
+      "date": "2023-03-28T12:24:46",
+      "auteur": "amypullo",
+      "note": 5,
+      "verifie": false,
+      "texte": "Coup de cœur, cest mon préféré tenue parfaite, digne d'un parfum de niche , fait lunanimite à chaque fois je le recommande"
+     },
+     {
+      "id": 74,
+      "date": "2023-03-11T07:30:03",
+      "auteur": "Mola",
+      "note": 5,
+      "verifie": false,
+      "texte": "Vraiment validé celui là une petites perles dure longtemps de très bonnes qualités"
+     },
+     {
+      "id": 63,
+      "date": "2023-03-01T23:59:08",
+      "auteur": "Haïti",
+      "note": 5,
+      "verifie": false,
+      "texte": "Il sent très bon et bien sucré. Je recommande 👍"
+     },
+     {
+      "id": 56,
+      "date": "2023-02-27T14:34:52",
+      "auteur": "Fatou",
+      "note": 5,
+      "verifie": false,
+      "texte": "Un parfum subtile et intense à la fois il marque votre présence de manière douce à votre passage ,une odeur envoûtant . Je valide"
+     },
+     {
+      "id": 53,
+      "date": "2023-02-15T15:16:44",
+      "auteur": "Kane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfum frais, sublime et sens intensément bon! Une senteur agréable qui tient toute la journée. Je recommande vivement!"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/amour-supreme-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "amour-supreme-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/amour-supreme-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960,
+      1200
+     ],
+     "jpg": 1190,
+     "source": "amour-supreme-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/amour-supreme-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "amour-supreme-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/amour-supreme-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "amour-supreme-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/amour-supreme-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "amour-supreme-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "11710",
+   "sku": null,
+   "slug": "rubi-trophy",
+   "nom": "Rubi trophy",
+   "nomWoo": "Rubi trophy",
+   "ancienneUrl": "https://mercuraparfums.com/product/rubi-trophy/",
+   "prix": 85,
+   "prixBarre": 109,
+   "prixPromo": 85,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 79,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Citron vert, bouquet fruité et oud.",
+   "description": [
+    "Rubi trophy démarre sur une note hespéridée, portée par le citron vert.",
+    "Son cœur est le plus foisonnant de la collection : rose, fleur d'oranger, violette, muguet, jasmin et iris se mêlent à la framboise, à la pêche, à la poire et à la noix de coco.",
+    "Le fond rassemble les bois — oud, cèdre, santal, bois de gaïac, vétiver — avec le patchouli, l'ambre, le musc et une facette animale."
+   ],
+   "voyage": null,
+   "notes": {
+    "tete": [
+     "hespéridés",
+     "citron vert"
+    ],
+    "coeur": [
+     "rose",
+     "fleur d'oranger",
+     "violette",
+     "muguet",
+     "jasmin",
+     "iris",
+     "framboise",
+     "noix de coco",
+     "pêche",
+     "poire"
+    ],
+    "fond": [
+     "notes boisées",
+     "oud",
+     "patchouli",
+     "cèdre",
+     "santal",
+     "bois de gaïac",
+     "vétiver",
+     "ambre",
+     "musc",
+     "notes douces",
+     "notes animales"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "fruits",
+    "bois"
+   ],
+   "images": [
+    {
+     "file": "rubi-trophy-campagne-v1.png",
+     "path": "ia/rubi-trophy-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "rubi-trophy-texture-v1.png",
+     "path": "ia/rubi-trophy-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "rubi-trophy-flacon.jpg",
+     "path": "dossier/rubi-trophy-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "rubi-trophy-etui.jpg",
+     "path": "dossier/rubi-trophy-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "rubi-trophy-ambiance.jpg",
+     "path": "dossier/rubi-trophy-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    },
+    {
+     "file": "rubi-trophy-dessus.jpg",
+     "path": "dossier/rubi-trophy-dessus.jpg",
+     "role": "dessus",
+     "src": null
+    }
+   ],
+   "ordre": 2,
+   "selection": true,
+   "avis": {
+    "nombre": 1,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 117,
+      "date": "2024-04-10T12:34:40",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "parfum oriental gourmand fruitée un mélange une fusion une explosion envie de le déguster"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/rubi-trophy-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "rubi-trophy-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/rubi-trophy-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960
+     ],
+     "jpg": 1158,
+     "source": "rubi-trophy-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/rubi-trophy-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "rubi-trophy-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/rubi-trophy-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "rubi-trophy-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "dessus",
+     "base": "/assets/img/produits/rubi-trophy-dessus",
+     "ratio": 1.5,
+     "widths": [
+      640,
+      960,
+      1400
+     ],
+     "jpg": 1200,
+     "source": "rubi-trophy-dessus.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/rubi-trophy-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "rubi-trophy-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "1387",
+   "sku": "NHFL4",
+   "slug": "sweet-black",
+   "nom": "Sweet Black",
+   "nomWoo": "Sweet Black",
+   "ancienneUrl": "https://mercuraparfums.com/product/commodo-consequat-aute/",
+   "prix": 75,
+   "prixBarre": 92,
+   "prixPromo": 75,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 176,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "photographie de l'étui",
+   "famille": null,
+   "accroche": "Anis, sucre filé et vanille.",
+   "description": [
+    "Sweet Black s'ouvre sur l'orchidée et l'anis, une entrée en matière singulière.",
+    "Le cœur est franchement gourmand : sucre et barbe à papa.",
+    "La vanille, le musc et l'ambre prolongent cette douceur en fond. C'est la composition la plus resserrée de la collection : sept notes au total."
+   ],
+   "voyage": "Son flacon évoque le bleu des mers du Sud.",
+   "notes": {
+    "tete": [
+     "orchidée",
+     "anis"
+    ],
+    "coeur": [
+     "sucre",
+     "barbe à papa"
+    ],
+    "fond": [
+     "vanille",
+     "musc",
+     "ambre"
+    ]
+   },
+   "familles": [
+    "fleurs",
+    "gourmand"
+   ],
+   "images": [
+    {
+     "file": "sweet-black-campagne-v1.png",
+     "path": "ia/sweet-black-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "sweet-black-texture-v1.png",
+     "path": "ia/sweet-black-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "sweet-black-flacon.jpg",
+     "path": "dossier/sweet-black-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "sweet-black-etui.jpg",
+     "path": "dossier/sweet-black-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "sweet-black-ambiance.jpg",
+     "path": "dossier/sweet-black-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    }
+   ],
+   "ordre": 3,
+   "selection": true,
+   "avis": {
+    "nombre": 12,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 118,
+      "date": "2024-04-10T12:46:03",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "tout simplement gourmand envie de le déguster"
+     },
+     {
+      "id": 107,
+      "date": "2023-10-05T22:19:25",
+      "auteur": "Cisse",
+      "note": 5,
+      "verifie": false,
+      "texte": "I love the parfum cuz it’s smell 👃 good 😊"
+     },
+     {
+      "id": 100,
+      "date": "2023-10-04T23:43:34",
+      "auteur": "Wagnane leyla",
+      "note": 5,
+      "verifie": false,
+      "texte": "J’aime bien le parfum c’est un parfum goulûment sa donne une odeur appétissante ❤️❤️"
+     },
+     {
+      "id": 95,
+      "date": "2023-09-27T00:27:25",
+      "auteur": "Aramata",
+      "note": 5,
+      "verifie": false,
+      "texte": "Nice smell"
+     },
+     {
+      "id": 84,
+      "date": "2023-04-03T13:43:25",
+      "auteur": "Binta",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfait! Mon coup de cœur. Je recommande!!!"
+     },
+     {
+      "id": 83,
+      "date": "2023-03-28T12:34:18",
+      "auteur": "amypullo",
+      "note": 5,
+      "verifie": false,
+      "texte": "Excellent!!!! Gourmand sucré je le recommande"
+     },
+     {
+      "id": 70,
+      "date": "2023-03-09T19:25:43",
+      "auteur": "Aurélie",
+      "note": 5,
+      "verifie": false,
+      "texte": "C’est l’odeur de ce parfum qui m’a fait découvrir la marque… une folie ! Un réel coup de cœur, impossible de passer inaperçu et tout ceux qui le sente sont obligés de demander « mais qu’est ce que tu portes ?! » il tient sur la peau toute la journée et sur les vêtements encore plus. je recommande les yeux fermés"
+     },
+     {
+      "id": 66,
+      "date": "2023-03-02T12:33:39",
+      "auteur": "Tiffany",
+      "note": 5,
+      "verifie": false,
+      "texte": "Mon parfum préféré ! L’odeur est magnifique et il tient longtemps."
+     },
+     {
+      "id": 64,
+      "date": "2023-03-02T00:02:22",
+      "auteur": "Haïti",
+      "note": 5,
+      "verifie": false,
+      "texte": "Au top , je fais fureur avec je le recommande vivement tien sur plusieurs jours."
+     },
+     {
+      "id": 61,
+      "date": "2023-03-01T23:11:50",
+      "auteur": "Grace Kokisa",
+      "note": 5,
+      "verifie": false,
+      "texte": "Très bonne tenue et surtout très bon parfum Avec une merveilleuse odeur"
+     },
+     {
+      "id": 60,
+      "date": "2023-03-01T23:03:00",
+      "auteur": "Kelly",
+      "note": 5,
+      "verifie": false,
+      "texte": "Mon préféré, mon chouchou, mon parfum de tous les jours je l’adore !"
+     },
+     {
+      "id": 58,
+      "date": "2023-03-01T22:59:59",
+      "auteur": "Anne",
+      "note": 5,
+      "verifie": false,
+      "texte": "Whaou sa sent super bon sa en vaut le prix je ne regrette pas mon achat encore un grand merci a mercura parfum"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/sweet-black-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "sweet-black-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/sweet-black-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960,
+      1200
+     ],
+     "jpg": 1179,
+     "source": "sweet-black-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/sweet-black-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sweet-black-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/sweet-black-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sweet-black-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/sweet-black-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sweet-black-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "8797",
+   "sku": null,
+   "slug": "intense-carmin",
+   "nom": "Intense Carmin",
+   "nomWoo": "Intense Carmin",
+   "ancienneUrl": "https://mercuraparfums.com/product/auis-nostrum-ullamb/",
+   "prix": 85,
+   "prixBarre": 103,
+   "prixPromo": 85,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 109,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "photographie de l'étui",
+   "famille": null,
+   "accroche": "Safran, jasmin et douceur sucrée.",
+   "description": [
+    "Intense Carmin s'ouvre sur l'orange et la bergamote, relevées par le safran.",
+    "Le jasmin s'enroule ensuite autour d'un cœur gourmand de sucre et de barbe à papa.",
+    "En fond, le patchouli, l'ambre, le baume de sapin et le musc donnent de la profondeur à cette douceur."
+   ],
+   "voyage": "Son flacon reprend le rouge du golfe Arabique.",
+   "notes": {
+    "tete": [
+     "orange",
+     "bergamote",
+     "safran"
+    ],
+    "coeur": [
+     "jasmin",
+     "sucre",
+     "barbe à papa"
+    ],
+    "fond": [
+     "patchouli",
+     "ambre",
+     "baume de sapin",
+     "musc"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "gourmand"
+   ],
+   "images": [
+    {
+     "file": "intense-carmin-campagne-v1.png",
+     "path": "ia/intense-carmin-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "intense-carmin-texture-v1.png",
+     "path": "ia/intense-carmin-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "intense-carmin-flacon.jpg",
+     "path": "dossier/intense-carmin-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "intense-carmin-etui.jpg",
+     "path": "dossier/intense-carmin-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "intense-carmin-ambiance.jpg",
+     "path": "dossier/intense-carmin-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    }
+   ],
+   "ordre": 4,
+   "selection": true,
+   "avis": {
+    "nombre": 5,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 119,
+      "date": "2024-04-10T12:48:17",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "parfum frais fruitée très très bon pour l'été incroyable"
+     },
+     {
+      "id": 99,
+      "date": "2023-10-01T02:22:05",
+      "auteur": "Soro Fatim",
+      "note": 5,
+      "verifie": false,
+      "texte": "Je recommande le parfum fortement dure très longtemps de très très bonne qualité vendeur au top très bon service rien à dire ❤️❤️🥰🥰"
+     },
+     {
+      "id": 93,
+      "date": "2023-09-25T00:34:49",
+      "auteur": "Balla Dione",
+      "note": 5,
+      "verifie": false,
+      "texte": "J aime le parfum sa me plaît vraiment beaucoup"
+     },
+     {
+      "id": 82,
+      "date": "2023-03-28T12:32:14",
+      "auteur": "amypullo",
+      "note": 5,
+      "verifie": false,
+      "texte": "J'adore l'odeur, le packaging, pour dire vrai j'ai craque pour les 5, parfums excellent rapport qualité prix belle tenue je l'ai recommende tous"
+     },
+     {
+      "id": 76,
+      "date": "2023-03-16T19:07:07",
+      "auteur": "Camara",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfun de haute qualité je suis plus. Que satisfait"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/intense-carmin-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "intense-carmin-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/intense-carmin-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960,
+      1200
+     ],
+     "jpg": 1190,
+     "source": "intense-carmin-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/intense-carmin-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "intense-carmin-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/intense-carmin-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "intense-carmin-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/intense-carmin-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "intense-carmin-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "1307",
+   "sku": "MH-1512",
+   "slug": "gris-feroce",
+   "nom": "Gris Féroce",
+   "nomWoo": "Gris Féroce",
+   "ancienneUrl": "https://mercuraparfums.com/product/consec-adipisci-quasi/",
+   "prix": 80,
+   "prixBarre": 92,
+   "prixPromo": 80,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 158,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Agrumes vifs, fleurs et bois de cèdre.",
+   "description": [
+    "Gris Féroce attaque sur la bergamote et le pamplemousse, adoucis par une touche de pêche.",
+    "Le cœur réunit trois fleurs classiques : jasmin, rose et violette.",
+    "Le fond, plus sec, associe le patchouli et le cèdre à l'ambre et au musc blanc. Ni vanille ni note sucrée dans sa pyramide."
+   ],
+   "voyage": "Son flacon évoque le bleu des mers du Sud.",
+   "notes": {
+    "tete": [
+     "bergamote",
+     "pamplemousse",
+     "pêche"
+    ],
+    "coeur": [
+     "jasmin",
+     "rose",
+     "violette"
+    ],
+    "fond": [
+     "patchouli",
+     "ambre",
+     "cèdre",
+     "musc blanc"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "fruits",
+    "bois"
+   ],
+   "images": [
+    {
+     "file": "gris-feroce-campagne-v1.png",
+     "path": "ia/gris-feroce-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "gris-feroce-texture-v1.png",
+     "path": "ia/gris-feroce-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "gris-feroce-flacon.jpg",
+     "path": "dossier/gris-feroce-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "gris-feroce-etui.jpg",
+     "path": "dossier/gris-feroce-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "gris-feroce-ambiance.jpg",
+     "path": "dossier/gris-feroce-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    }
+   ],
+   "ordre": 5,
+   "selection": false,
+   "avis": {
+    "nombre": 14,
+    "moyenne": 4.928571428571429,
+    "liste": [
+     {
+      "id": 170,
+      "date": "2024-10-21T19:26:01",
+      "auteur": "Ndiaye Aïda",
+      "note": 5,
+      "verifie": false,
+      "texte": "Incroyable comme senteur j ai eu du mal à faire un choix...donc j en ai pris plusieurs. J adore"
+     },
+     {
+      "id": 112,
+      "date": "2024-04-10T12:14:08",
+      "auteur": "Sow Atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Quelle parfum je n’ai plus les mot ❤️❤️☺️☺️"
+     },
+     {
+      "id": 106,
+      "date": "2023-10-05T22:14:59",
+      "auteur": "Cisse",
+      "note": 5,
+      "verifie": false,
+      "texte": "I love the parfum cuz it’s smell 👃 good 😊"
+     },
+     {
+      "id": 105,
+      "date": "2023-10-05T17:56:48",
+      "auteur": "Ndeye gueye",
+      "note": 5,
+      "verifie": false,
+      "texte": "this perfume lives up to its name, it's really fierce, the hold and just incredible, my favorite From harlem"
+     },
+     {
+      "id": 102,
+      "date": "2023-10-04T23:48:59",
+      "auteur": "Kane adama",
+      "note": 5,
+      "verifie": false,
+      "texte": "Quelle magnifique parfum il et vraiment féroce je recommande ❤️😊"
+     },
+     {
+      "id": 86,
+      "date": "2023-06-25T11:25:28",
+      "auteur": "Fall bada",
+      "note": 5,
+      "verifie": false,
+      "texte": "Très satisfait parfum de haute qualité la teneur incroyable la tenu sur le vêtement 24 à 48h vraiment je vous recommande la marque mercura"
+     },
+     {
+      "id": 81,
+      "date": "2023-03-28T12:28:44",
+      "auteur": "amypullo",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfum mixte, belle tenue , je le prefere a celui de dior bon rapport qualité et prix"
+     },
+     {
+      "id": 77,
+      "date": "2023-03-16T19:10:48",
+      "auteur": "Fabien",
+      "note": 5,
+      "verifie": false,
+      "texte": "Une pur merveille je le recommande a 10000% ras"
+     },
+     {
+      "id": 75,
+      "date": "2023-03-11T07:32:35",
+      "auteur": "Mola",
+      "note": 5,
+      "verifie": false,
+      "texte": "Il s'appelle pas gris féroce pour rien très intense dure longtemps avec un bon sillage validé"
+     },
+     {
+      "id": 68,
+      "date": "2023-03-04T16:38:16",
+      "auteur": "Bella243",
+      "note": 4,
+      "verifie": false,
+      "texte": "Bon parfum qui sent fort et qui tiens bien 👍🏾 👌🏾"
+     },
+     {
+      "id": 67,
+      "date": "2023-03-03T00:10:24",
+      "auteur": "Sylla",
+      "note": 5,
+      "verifie": false,
+      "texte": "Vous êtes les meilleurs superbes parfums et sa tient trop longtemps. Merci ravie ❤❤❤"
+     },
+     {
+      "id": 57,
+      "date": "2023-03-01T21:03:18",
+      "auteur": "Philippe",
+      "note": 5,
+      "verifie": false,
+      "texte": "Superbe parfum que ce soit par sa senteur, sa teneur, sa bouteille. Le fond et la forme sont au RDV !"
+     },
+     {
+      "id": 55,
+      "date": "2023-02-26T18:11:58",
+      "auteur": "Faye",
+      "note": 5,
+      "verifie": false,
+      "texte": "Super odeur meilleur que le Dior.... Franchement je ne suis pas déçu Encore merciiii"
+     },
+     {
+      "id": 52,
+      "date": "2023-02-15T10:11:33",
+      "auteur": "Dieng",
+      "note": 5,
+      "verifie": false,
+      "texte": "Une dinguerie ce parfum il sens super bon et tient toute la journée ❤"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/gris-feroce-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "gris-feroce-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/gris-feroce-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960,
+      1200
+     ],
+     "jpg": 1190,
+     "source": "gris-feroce-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/gris-feroce-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "gris-feroce-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/gris-feroce-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "gris-feroce-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/gris-feroce-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "gris-feroce-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "11687",
+   "sku": null,
+   "slug": "cherie-berry",
+   "nom": "Cherie berry",
+   "nomWoo": "Cherie berry",
+   "ancienneUrl": "https://mercuraparfums.com/product/cherie-berry/",
+   "prix": 75,
+   "prixBarre": 94,
+   "prixPromo": 75,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 165,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": "Fruité ambré",
+   "accroche": "Cerise noire, amande amère et vanille.",
+   "description": [
+    "Cherie berry est un fruité ambré. Il s'ouvre sur la cerise noire et l'amande amère.",
+    "Le cœur associe la rose et le jasmin à la rondeur de la prune.",
+    "Le fond, chaleureux, mêle vanille, fève tonka, cannelle et benjoin, structurés par le santal et le vétiver."
+   ],
+   "voyage": null,
+   "notes": {
+    "tete": [
+     "amande amère",
+     "cerise noire"
+    ],
+    "coeur": [
+     "rose",
+     "jasmin",
+     "prune"
+    ],
+    "fond": [
+     "vanille",
+     "fève tonka",
+     "cannelle",
+     "benjoin",
+     "santal",
+     "vétiver"
+    ]
+   },
+   "familles": [
+    "fleurs",
+    "fruits",
+    "gourmand",
+    "bois"
+   ],
+   "images": [
+    {
+     "file": "cherie-berry-campagne-v1.png",
+     "path": "ia/cherie-berry-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "cherie-berry-texture-v1.png",
+     "path": "ia/cherie-berry-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "cherie-berry-flacon.jpg",
+     "path": "dossier/cherie-berry-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "cherie-berry-etui.jpg",
+     "path": "dossier/cherie-berry-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "cherie-berry-ambiance.jpg",
+     "path": "dossier/cherie-berry-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    },
+    {
+     "file": "cherie-berry-dessus.jpg",
+     "path": "dossier/cherie-berry-dessus.jpg",
+     "role": "dessus",
+     "src": null
+    }
+   ],
+   "ordre": 6,
+   "selection": false,
+   "avis": {
+    "nombre": 2,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 126,
+      "date": "2024-07-26T13:45:19",
+      "auteur": "Dumas",
+      "note": 5,
+      "verifie": false,
+      "texte": "L’odeur du parfum est agréable, voir même envoûtant il est juste spécial 🤩🤩 je le recommande très fortement."
+     },
+     {
+      "id": 113,
+      "date": "2024-04-10T12:23:54",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "La nouvelle gamme Mercura et tout simplement incroyable les odeurs nous font voyager quelle gamme on peux y retrouver du gourmand fruitée, gourmand, boisés, oriental. Je recommande fortement ❤️❤️☺️☺️"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/cherie-berry-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "cherie-berry-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/cherie-berry-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960
+     ],
+     "jpg": 1161,
+     "source": "cherie-berry-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/cherie-berry-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "cherie-berry-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/cherie-berry-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "cherie-berry-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "dessus",
+     "base": "/assets/img/produits/cherie-berry-dessus",
+     "ratio": 1.499531396438613,
+     "widths": [
+      640,
+      960,
+      1400
+     ],
+     "jpg": 1200,
+     "source": "cherie-berry-dessus.jpg",
+     "sourceWidth": 1600
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/cherie-berry-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "cherie-berry-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "11691",
+   "sku": null,
+   "slug": "sun-addiction",
+   "nom": "Sun addiction",
+   "nomWoo": "Sun addiction",
+   "ancienneUrl": "https://mercuraparfums.com/product/sun-addiction/",
+   "prix": 85,
+   "prixBarre": 103,
+   "prixPromo": 85,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 124,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": "Floral ambré musqué",
+   "accroche": "Fleur d'oranger, ambre et caramel.",
+   "description": [
+    "Sun addiction est un floral ambré musqué. La bergamote et la fleur d'oranger en dessinent l'ouverture.",
+    "La rose s'y réchauffe au contact de l'ambre et du patchouli.",
+    "Le musc, la vanille et le caramel signent un fond doux et gourmand."
+   ],
+   "voyage": null,
+   "notes": {
+    "tete": [
+     "bergamote",
+     "fleur d'oranger"
+    ],
+    "coeur": [
+     "rose",
+     "ambre",
+     "patchouli"
+    ],
+    "fond": [
+     "musc",
+     "vanille",
+     "caramel"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "gourmand"
+   ],
+   "images": [
+    {
+     "file": "sun-addiction-campagne-v1.png",
+     "path": "ia/sun-addiction-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "sun-addiction-texture-v1.png",
+     "path": "ia/sun-addiction-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "sun-addiction-flacon.jpg",
+     "path": "dossier/sun-addiction-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "sun-addiction-etui.jpg",
+     "path": "dossier/sun-addiction-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "sun-addiction-ambiance.jpg",
+     "path": "dossier/sun-addiction-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    },
+    {
+     "file": "sun-addiction-dessus.jpg",
+     "path": "dossier/sun-addiction-dessus.jpg",
+     "role": "dessus",
+     "src": null
+    }
+   ],
+   "ordre": 7,
+   "selection": false,
+   "avis": {
+    "nombre": 1,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 114,
+      "date": "2024-04-10T12:28:40",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Un parfum qui attirera l'attention de tout le monde la teneur de la gamme de Mercura et juste incroyable"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/sun-addiction-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "sun-addiction-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/sun-addiction-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960,
+      1200
+     ],
+     "jpg": 1190,
+     "source": "sun-addiction-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/sun-addiction-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sun-addiction-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/sun-addiction-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sun-addiction-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "dessus",
+     "base": "/assets/img/produits/sun-addiction-dessus",
+     "ratio": 1.5,
+     "widths": [
+      640,
+      960,
+      1400
+     ],
+     "jpg": 1200,
+     "source": "sun-addiction-dessus.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/sun-addiction-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "sun-addiction-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "11702",
+   "sku": null,
+   "slug": "or-di-wood",
+   "nom": "Or di wood",
+   "nomWoo": "Or di wood",
+   "ancienneUrl": "https://mercuraparfums.com/product/or-di-wood/",
+   "prix": 85,
+   "prixBarre": 109,
+   "prixPromo": 85,
+   "ferme": false,
+   "devise": "EUR",
+   "enStock": true,
+   "achetable": true,
+   "stockMax": 158,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Orange, menthe et vanille ambrée.",
+   "description": [
+    "Or di wood s'ouvre sur un accord hespéridé et aromatique : l'orange et la menthe.",
+    "Son cœur, inattendu, associe la carotte au musc blanc.",
+    "Le fond reste doux et enveloppant : accord ambré et musqué, vanille."
+   ],
+   "voyage": null,
+   "notes": {
+    "tete": [
+     "hespéridés",
+     "orange",
+     "menthe",
+     "notes aromatiques"
+    ],
+    "coeur": [
+     "carotte",
+     "musc blanc"
+    ],
+    "fond": [
+     "accord ambré",
+     "accord musqué",
+     "notes douces",
+     "vanille"
+    ]
+   },
+   "familles": [
+    "agrumes"
+   ],
+   "images": [
+    {
+     "file": "or-di-wood-campagne-v1.png",
+     "path": "ia/or-di-wood-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "or-di-wood-texture-v1.png",
+     "path": "ia/or-di-wood-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "or-di-wood-flacon.jpg",
+     "path": "dossier/or-di-wood-flacon.jpg",
+     "role": "flacon",
+     "src": null
+    },
+    {
+     "file": "or-di-wood-etui.jpg",
+     "path": "dossier/or-di-wood-etui.jpg",
+     "role": "etui",
+     "src": null
+    },
+    {
+     "file": "or-di-wood-ambiance.jpg",
+     "path": "dossier/or-di-wood-ambiance.jpg",
+     "role": "ambiance",
+     "src": null
+    },
+    {
+     "file": "or-di-wood-dessus.jpg",
+     "path": "dossier/or-di-wood-dessus.jpg",
+     "role": "dessus",
+     "src": null
+    }
+   ],
+   "ordre": 8,
+   "selection": false,
+   "avis": {
+    "nombre": 1,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 116,
+      "date": "2024-04-10T12:32:46",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "parfum le meilleur des parfum boisés que j'ai connue je recommande a 100%"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/or-di-wood-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "or-di-wood-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "flacon",
+     "base": "/assets/img/produits/or-di-wood-flacon",
+     "ratio": 0.8,
+     "widths": [
+      400,
+      640,
+      960
+     ],
+     "jpg": 1142,
+     "source": "or-di-wood-flacon.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/or-di-wood-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "or-di-wood-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "ambiance",
+     "base": "/assets/img/produits/or-di-wood-ambiance",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "or-di-wood-ambiance.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "dessus",
+     "base": "/assets/img/produits/or-di-wood-dessus",
+     "ratio": 1.5,
+     "widths": [
+      640,
+      960,
+      1400
+     ],
+     "jpg": 1200,
+     "source": "or-di-wood-dessus.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/or-di-wood-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "or-di-wood-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "11698",
+   "sku": null,
+   "slug": "pur-saphir",
+   "nom": "Pur Saphir",
+   "nomWoo": "Pur Saphir (Sold-out)",
+   "ancienneUrl": "https://mercuraparfums.com/product/pur-saphir/",
+   "prix": 85,
+   "prixBarre": 109,
+   "prixPromo": 85,
+   "ferme": true,
+   "devise": "EUR",
+   "enStock": false,
+   "achetable": false,
+   "stockMax": 0,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Notes vertes, fruits juteux et bois d'agar.",
+   "description": [
+    "Pur Saphir s'ouvre sur un accord aldéhydé et vert, relevé de citron et d'anis.",
+    "Au cœur, la rose et la violette rencontrent l'ananas, le melon, la poire, la pêche et la noix de coco.",
+    "Le fond associe trois bois — santal, bois d'agar et cèdre — à un accord ambré, musqué et vanillé."
+   ],
+   "voyage": null,
+   "notes": {
+    "tete": [
+     "aldéhydes",
+     "notes vertes",
+     "citron",
+     "anis"
+    ],
+    "coeur": [
+     "rose",
+     "violette",
+     "ananas",
+     "melon",
+     "poire",
+     "pêche",
+     "noix de coco"
+    ],
+    "fond": [
+     "santal",
+     "bois d'agar",
+     "cèdre",
+     "accord ambré",
+     "accord musqué",
+     "notes douces",
+     "vanille"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "fruits",
+    "bois"
+   ],
+   "images": [
+    {
+     "file": "pur-saphir-campagne-v1.png",
+     "path": "ia/pur-saphir-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "pur-saphir-texture-v1.png",
+     "path": "ia/pur-saphir-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "pur-saphir-etui.webp",
+     "path": "dossier/pur-saphir-etui.webp",
+     "role": "etui",
+     "src": null
+    }
+   ],
+   "ordre": 9,
+   "selection": false,
+   "avis": {
+    "nombre": 1,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 115,
+      "date": "2024-04-10T12:30:54",
+      "auteur": "Sow Atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Une vrais pépite je suis tombé amoureux mon préféré 🥰🥰😍😍"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/pur-saphir-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "pur-saphir-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/pur-saphir-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "pur-saphir-etui.webp",
+     "sourceWidth": 1599
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/pur-saphir-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "pur-saphir-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  },
+  {
+   "id": "2491",
+   "sku": "JMN102",
+   "slug": "golden-oud",
+   "nom": "Golden Oud",
+   "nomWoo": "Golden Oud (Sold-out)",
+   "ancienneUrl": "https://mercuraparfums.com/product/golden-oud/",
+   "prix": 80,
+   "prixBarre": 94,
+   "prixPromo": 80,
+   "ferme": true,
+   "devise": "EUR",
+   "enStock": false,
+   "achetable": false,
+   "stockMax": 0,
+   "concentration": "Eau de parfum",
+   "volumeMl": 50,
+   "volumeSource": "fiche WooCommerce",
+   "famille": null,
+   "accroche": "Fruits rouges, caramel et ambre.",
+   "description": [
+    "Golden Oud s'ouvre sur un éclat fruité : la bergamote éclaire la pêche, la fraise et la framboise.",
+    "Au cœur, le caramel et la barbe à papa rencontrent le labdanum, le muguet et une pointe de poivre rose.",
+    "Le fond réunit le musc, le patchouli, l'ambre, la vanille et le santal."
+   ],
+   "voyage": "Son flacon reprend le jaune-orangé d'un coucher de soleil sur le Bosphore.",
+   "notes": {
+    "tete": [
+     "bergamote",
+     "pêche",
+     "fraise",
+     "framboise"
+    ],
+    "coeur": [
+     "caramel",
+     "labdanum",
+     "muguet",
+     "poivre rose",
+     "barbe à papa"
+    ],
+    "fond": [
+     "musc",
+     "patchouli",
+     "ambre",
+     "vanille",
+     "santal"
+    ]
+   },
+   "familles": [
+    "agrumes",
+    "fleurs",
+    "fruits",
+    "gourmand",
+    "bois"
+   ],
+   "images": [
+    {
+     "file": "golden-oud-campagne-v1.png",
+     "path": "ia/golden-oud-campagne-v1.png",
+     "role": "campagne",
+     "src": null
+    },
+    {
+     "file": "golden-oud-texture-v1.png",
+     "path": "ia/golden-oud-texture-v1.png",
+     "role": "texture",
+     "src": null
+    },
+    {
+     "file": "golden-oud-etui.jpg",
+     "path": "dossier/golden-oud-etui.jpg",
+     "role": "etui",
+     "src": null
+    }
+   ],
+   "ordre": 10,
+   "selection": false,
+   "avis": {
+    "nombre": 12,
+    "moyenne": 5,
+    "liste": [
+     {
+      "id": 111,
+      "date": "2024-04-10T12:08:03",
+      "auteur": "Sow atoumane",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfum extrêmement subtil odeur incroyable Je recommande fortement"
+     },
+     {
+      "id": 109,
+      "date": "2024-04-01T14:32:03",
+      "auteur": "Amadou",
+      "note": 5,
+      "verifie": false,
+      "texte": "Perfume de mucha calidad con unos olores muy buenos que combinan a ala perfección y dura todo el día , totalmente recomendable"
+     },
+     {
+      "id": 101,
+      "date": "2023-10-04T23:47:32",
+      "auteur": "Kane adama",
+      "note": 5,
+      "verifie": false,
+      "texte": "Incroyable Parfums une pépite rien à ajouté je recommande 🥰🥰"
+     },
+     {
+      "id": 85,
+      "date": "2023-06-03T22:03:12",
+      "auteur": "Madelene",
+      "note": 5,
+      "verifie": false,
+      "texte": "I love this perfume ❤️‍🔥🫶🏾🫶🏾"
+     },
+     {
+      "id": 79,
+      "date": "2023-03-28T12:04:50",
+      "auteur": "amypullo",
+      "note": 5,
+      "verifie": false,
+      "texte": "Une senteur exceptionelle, un ould sucrée"
+     },
+     {
+      "id": 78,
+      "date": "2023-03-22T12:20:30",
+      "auteur": "Binta",
+      "note": 5,
+      "verifie": false,
+      "texte": "Parfait. Très bon parfum avec une durée longue . Je recommande fortement."
+     },
+     {
+      "id": 73,
+      "date": "2023-03-11T07:27:00",
+      "auteur": "Mola",
+      "note": 5,
+      "verifie": false,
+      "texte": "Très bon parfums de très bonnes qualités dure longtemps vraiment top"
+     },
+     {
+      "id": 69,
+      "date": "2023-03-09T19:19:56",
+      "auteur": "Aurélie",
+      "note": 5,
+      "verifie": false,
+      "texte": "Le parfum a fait son effet, l’odeur est juste incroyable et il tient super bien. Je recommande vraiment !"
+     },
+     {
+      "id": 65,
+      "date": "2023-03-02T11:44:14",
+      "auteur": "Amine",
+      "note": 5,
+      "verifie": false,
+      "texte": "Il sent super bon , il tient bien quasi tte la Day, je el recommande les yeux fermés"
+     },
+     {
+      "id": 62,
+      "date": "2023-03-01T23:23:33",
+      "auteur": "Grace Kokisa",
+      "note": 5,
+      "verifie": false,
+      "texte": "J’avais pris pour ma mère est elle a aimé l’odeur , et il a une tenue vraiment intense"
+     },
+     {
+      "id": 59,
+      "date": "2023-03-01T23:01:30",
+      "auteur": "Kelly",
+      "note": 5,
+      "verifie": false,
+      "texte": "Alors ce parfum .. que dire .. il n’y a que les méritants qui ont le droit de sentir ce parfum !! Il est incroyable et sent tellement bon que mes copines sont jalouses"
+     },
+     {
+      "id": 54,
+      "date": "2023-02-26T18:00:58",
+      "auteur": "Sakho",
+      "note": 5,
+      "verifie": false,
+      "texte": "Merci pour cette vente le parfum a une odeur incroyable….. Je recommande vraiment et j’en reprendrai"
+     }
+    ]
+   },
+   "photos": [
+    {
+     "role": "campagne",
+     "base": "/assets/img/produits/golden-oud-campagne",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200,
+      1600
+     ],
+     "jpg": 1200,
+     "source": "golden-oud-campagne-v1.png",
+     "sourceWidth": 1792
+    },
+    {
+     "role": "etui",
+     "base": "/assets/img/produits/golden-oud-etui",
+     "ratio": 1,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "golden-oud-etui.jpg",
+     "sourceWidth": 1500
+    },
+    {
+     "role": "texture",
+     "base": "/assets/img/produits/golden-oud-texture",
+     "ratio": 0.8,
+     "widths": [
+      480,
+      800,
+      1200
+     ],
+     "jpg": 1200,
+     "source": "golden-oud-texture-v1.png",
+     "sourceWidth": 1792
+    }
+   ]
+  }
+ ],
+ "anomalies": [
+  {
+   "id": "11710",
+   "type": "référence",
+   "detail": "« Rubi trophy » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "11702",
+   "type": "référence",
+   "detail": "« Or di wood » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "11698",
+   "type": "nom",
+   "detail": "Le nom WooCommerce « Pur Saphir (Sold-out) » contient une mention de disponibilité. Nom affiché : « Pur Saphir »."
+  },
+  {
+   "id": "11698",
+   "type": "référence",
+   "detail": "« Pur Saphir » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "11691",
+   "type": "référence",
+   "detail": "« Sun addiction » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "11687",
+   "type": "référence",
+   "detail": "« Cherie berry » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "11392",
+   "type": "référence",
+   "detail": "« Amour suprême » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "8797",
+   "type": "contenance",
+   "detail": "Contenance absente de la fiche WooCommerce de « Intense Carmin » ; 50 ml relevés sur la photographie de l'étui."
+  },
+  {
+   "id": "8797",
+   "type": "référence",
+   "detail": "« Intense Carmin » n'a pas de référence (SKU) dans WooCommerce."
+  },
+  {
+   "id": "1387",
+   "type": "contenance",
+   "detail": "Contenance absente de la fiche WooCommerce de « Sweet Black » ; 50 ml relevés sur la photographie de l'étui."
+  },
+  {
+   "id": "2491",
+   "type": "nom",
+   "detail": "Le nom WooCommerce « Golden Oud (Sold-out) » contient une mention de disponibilité. Nom affiché : « Golden Oud »."
+  }
+ ],
+ "familles": {
+  "agrumes": {
+   "nom": "Agrumes",
+   "titre": "Éclats d'agrumes",
+   "texte": "Bergamote, citron, orange ou pamplemousse en ouverture.",
+   "notes": [
+    "bergamote",
+    "citron",
+    "citron vert",
+    "orange",
+    "pamplemousse",
+    "hespéridés"
+   ]
+  },
+  "fleurs": {
+   "nom": "Fleurs",
+   "titre": "Bouquets floraux",
+   "texte": "Rose, jasmin, tubéreuse, fleur d'oranger ou violette au cœur.",
+   "notes": [
+    "rose",
+    "jasmin",
+    "tubéreuse",
+    "ylang-ylang",
+    "fleur d'oranger",
+    "violette",
+    "muguet",
+    "iris",
+    "orchidée"
+   ]
+  },
+  "fruits": {
+   "nom": "Fruits",
+   "titre": "Fruits juteux",
+   "texte": "Pêche, framboise, cerise noire, poire ou ananas.",
+   "notes": [
+    "pêche",
+    "fraise",
+    "framboise",
+    "cerise noire",
+    "prune",
+    "pastèque",
+    "ananas",
+    "melon",
+    "poire"
+   ]
+  },
+  "gourmand": {
+   "nom": "Gourmand",
+   "titre": "Douceurs gourmandes",
+   "texte": "Sucre, barbe à papa, caramel ou amande amère.",
+   "notes": [
+    "sucre",
+    "barbe à papa",
+    "caramel",
+    "amande amère"
+   ]
+  },
+  "bois": {
+   "nom": "Bois",
+   "titre": "Bois et oud",
+   "texte": "Oud, bois d'agar, santal, cèdre ou vétiver en fond.",
+   "notes": [
+    "oud",
+    "bois d'agar",
+    "santal",
+    "cèdre",
+    "bois de gaïac",
+    "vétiver",
+    "notes boisées"
+   ]
+  }
+ }
+}

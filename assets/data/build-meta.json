@@ -1,0 +1,812 @@
+{
+ "brand": {
+  "collection": {
+   "base": "/assets/img/brand/collection",
+   "widths": [
+    640,
+    960,
+    1280,
+    1500
+   ],
+   "jpg": 1280,
+   "ratio": 1.25
+  },
+  "logo": {
+   "w": 231,
+   "h": 142
+  },
+  "visuels": {
+   "hero": {
+    "base": "/assets/img/visuels/hero",
+    "widths": [
+     768,
+     1280,
+     1600,
+     2048
+    ],
+    "jpg": 1600,
+    "ratio": 1.5058823529411764
+   },
+   "maison": {
+    "base": "/assets/img/visuels/maison",
+    "widths": [
+     640,
+     960,
+     1400,
+     2000
+    ],
+    "jpg": 1400,
+    "ratio": 1.3394495412844036
+   },
+   "collection": {
+    "base": "/assets/img/visuels/collection",
+    "widths": [
+     640,
+     960,
+     1400,
+     2000
+    ],
+    "jpg": 1400,
+    "ratio": 1.25
+   },
+   "groupe": {
+    "base": "/assets/img/visuels/groupe",
+    "widths": [
+     768,
+     1280,
+     1600,
+     2048
+    ],
+    "jpg": 1600,
+    "ratio": 1.768421052631579
+   },
+   "groupeVertical": {
+    "base": "/assets/img/visuels/groupeVertical",
+    "widths": [
+     640,
+     960,
+     1400
+    ],
+    "jpg": 1200,
+    "ratio": 0.8
+   },
+   "famille-agrumes": {
+    "base": "/assets/img/visuels/famille-agrumes",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "jpg": 640,
+    "ratio": 1
+   },
+   "famille-fleurs": {
+    "base": "/assets/img/visuels/famille-fleurs",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "jpg": 640,
+    "ratio": 1
+   },
+   "famille-fruits": {
+    "base": "/assets/img/visuels/famille-fruits",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "jpg": 640,
+    "ratio": 1
+   },
+   "famille-gourmand": {
+    "base": "/assets/img/visuels/famille-gourmand",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "jpg": 640,
+    "ratio": 1
+   },
+   "famille-bois": {
+    "base": "/assets/img/visuels/famille-bois",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "jpg": 640,
+    "ratio": 1
+   }
+  }
+ },
+ "photos": {
+  "1307": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/gris-feroce-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "gris-feroce-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/gris-feroce-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960,
+     1200
+    ],
+    "jpg": 1190,
+    "source": "gris-feroce-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/gris-feroce-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "gris-feroce-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/gris-feroce-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "gris-feroce-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/gris-feroce-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "gris-feroce-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "1387": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/sweet-black-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "sweet-black-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/sweet-black-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960,
+     1200
+    ],
+    "jpg": 1179,
+    "source": "sweet-black-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/sweet-black-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sweet-black-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/sweet-black-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sweet-black-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/sweet-black-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sweet-black-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "2491": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/golden-oud-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "golden-oud-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/golden-oud-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "golden-oud-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/golden-oud-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "golden-oud-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "8797": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/intense-carmin-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "intense-carmin-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/intense-carmin-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960,
+     1200
+    ],
+    "jpg": 1190,
+    "source": "intense-carmin-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/intense-carmin-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "intense-carmin-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/intense-carmin-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "intense-carmin-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/intense-carmin-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "intense-carmin-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11392": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/amour-supreme-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "amour-supreme-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/amour-supreme-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960,
+     1200
+    ],
+    "jpg": 1190,
+    "source": "amour-supreme-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/amour-supreme-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "amour-supreme-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/amour-supreme-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "amour-supreme-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/amour-supreme-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "amour-supreme-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11687": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/cherie-berry-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "cherie-berry-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/cherie-berry-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960
+    ],
+    "jpg": 1161,
+    "source": "cherie-berry-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/cherie-berry-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "cherie-berry-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/cherie-berry-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "cherie-berry-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "dessus",
+    "base": "/assets/img/produits/cherie-berry-dessus",
+    "ratio": 1.499531396438613,
+    "widths": [
+     640,
+     960,
+     1400
+    ],
+    "jpg": 1200,
+    "source": "cherie-berry-dessus.jpg",
+    "sourceWidth": 1600
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/cherie-berry-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "cherie-berry-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11691": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/sun-addiction-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "sun-addiction-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/sun-addiction-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960,
+     1200
+    ],
+    "jpg": 1190,
+    "source": "sun-addiction-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/sun-addiction-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sun-addiction-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/sun-addiction-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sun-addiction-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "dessus",
+    "base": "/assets/img/produits/sun-addiction-dessus",
+    "ratio": 1.5,
+    "widths": [
+     640,
+     960,
+     1400
+    ],
+    "jpg": 1200,
+    "source": "sun-addiction-dessus.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/sun-addiction-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "sun-addiction-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11698": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/pur-saphir-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "pur-saphir-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/pur-saphir-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "pur-saphir-etui.webp",
+    "sourceWidth": 1599
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/pur-saphir-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "pur-saphir-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11702": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/or-di-wood-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "or-di-wood-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/or-di-wood-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960
+    ],
+    "jpg": 1142,
+    "source": "or-di-wood-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/or-di-wood-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "or-di-wood-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/or-di-wood-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "or-di-wood-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "dessus",
+    "base": "/assets/img/produits/or-di-wood-dessus",
+    "ratio": 1.5,
+    "widths": [
+     640,
+     960,
+     1400
+    ],
+    "jpg": 1200,
+    "source": "or-di-wood-dessus.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/or-di-wood-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "or-di-wood-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ],
+  "11710": [
+   {
+    "role": "campagne",
+    "base": "/assets/img/produits/rubi-trophy-campagne",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200,
+     1600
+    ],
+    "jpg": 1200,
+    "source": "rubi-trophy-campagne-v1.png",
+    "sourceWidth": 1792
+   },
+   {
+    "role": "flacon",
+    "base": "/assets/img/produits/rubi-trophy-flacon",
+    "ratio": 0.8,
+    "widths": [
+     400,
+     640,
+     960
+    ],
+    "jpg": 1158,
+    "source": "rubi-trophy-flacon.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "etui",
+    "base": "/assets/img/produits/rubi-trophy-etui",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "rubi-trophy-etui.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "ambiance",
+    "base": "/assets/img/produits/rubi-trophy-ambiance",
+    "ratio": 1,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "rubi-trophy-ambiance.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "dessus",
+    "base": "/assets/img/produits/rubi-trophy-dessus",
+    "ratio": 1.5,
+    "widths": [
+     640,
+     960,
+     1400
+    ],
+    "jpg": 1200,
+    "source": "rubi-trophy-dessus.jpg",
+    "sourceWidth": 1500
+   },
+   {
+    "role": "texture",
+    "base": "/assets/img/produits/rubi-trophy-texture",
+    "ratio": 0.8,
+    "widths": [
+     480,
+     800,
+     1200
+    ],
+    "jpg": 1200,
+    "source": "rubi-trophy-texture-v1.png",
+    "sourceWidth": 1792
+   }
+  ]
+ }
+}

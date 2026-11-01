@@ -1,0 +1,170 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/shop/page/:path*",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/product/amour-supreme",
+      "destination": "/parfums/amour-supreme/",
+      "permanent": true
+    },
+    {
+      "source": "/product/rubi-trophy",
+      "destination": "/parfums/rubi-trophy/",
+      "permanent": true
+    },
+    {
+      "source": "/product/commodo-consequat-aute",
+      "destination": "/parfums/sweet-black/",
+      "permanent": true
+    },
+    {
+      "source": "/product/auis-nostrum-ullamb",
+      "destination": "/parfums/intense-carmin/",
+      "permanent": true
+    },
+    {
+      "source": "/product/consec-adipisci-quasi",
+      "destination": "/parfums/gris-feroce/",
+      "permanent": true
+    },
+    {
+      "source": "/product/cherie-berry",
+      "destination": "/parfums/cherie-berry/",
+      "permanent": true
+    },
+    {
+      "source": "/product/sun-addiction",
+      "destination": "/parfums/sun-addiction/",
+      "permanent": true
+    },
+    {
+      "source": "/product/or-di-wood",
+      "destination": "/parfums/or-di-wood/",
+      "permanent": true
+    },
+    {
+      "source": "/product/pur-saphir",
+      "destination": "/parfums/pur-saphir/",
+      "permanent": true
+    },
+    {
+      "source": "/product/golden-oud",
+      "destination": "/parfums/golden-oud/",
+      "permanent": true
+    },
+    {
+      "source": "/shop",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/shop-2",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/product-category/parfums",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/top-rated-product",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us",
+      "destination": "/maison/",
+      "permanent": true
+    },
+    {
+      "source": "/faqs",
+      "destination": "/faq/",
+      "permanent": true
+    },
+    {
+      "source": "/term-and-conditions",
+      "destination": "/cgv/",
+      "permanent": true
+    },
+    {
+      "source": "/cart",
+      "destination": "/panier/",
+      "permanent": true
+    },
+    {
+      "source": "/cart-2",
+      "destination": "/panier/",
+      "permanent": true
+    },
+    {
+      "source": "/checkout-2",
+      "destination": "/panier/",
+      "permanent": true
+    },
+    {
+      "source": "/map-contact",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/404-not-found",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/liste-de-souhaits",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/wishlist",
+      "destination": "/parfums/",
+      "permanent": true
+    },
+    {
+      "source": "/yith-compare",
+      "destination": "/collection/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Redirections 301 de l'ancien site WordPress vers la nouvelle boutique.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^shop/page/[0-9]+/?$ /parfums/ [R=301,L]
+RewriteRule ^product/amour-supreme/?$ /parfums/amour-supreme/ [R=301,L]
+RewriteRule ^product/rubi-trophy/?$ /parfums/rubi-trophy/ [R=301,L]
+RewriteRule ^product/commodo-consequat-aute/?$ /parfums/sweet-black/ [R=301,L]
+RewriteRule ^product/auis-nostrum-ullamb/?$ /parfums/intense-carmin/ [R=301,L]
+RewriteRule ^product/consec-adipisci-quasi/?$ /parfums/gris-feroce/ [R=301,L]
+RewriteRule ^product/cherie-berry/?$ /parfums/cherie-berry/ [R=301,L]
+RewriteRule ^product/sun-addiction/?$ /parfums/sun-addiction/ [R=301,L]
+RewriteRule ^product/or-di-wood/?$ /parfums/or-di-wood/ [R=301,L]
+RewriteRule ^product/pur-saphir/?$ /parfums/pur-saphir/ [R=301,L]
+RewriteRule ^product/golden-oud/?$ /parfums/golden-oud/ [R=301,L]
+RewriteRule ^shop/?$ /parfums/ [R=301,L]
+RewriteRule ^shop-2/?$ /parfums/ [R=301,L]
+RewriteRule ^product-category/parfums/?$ /parfums/ [R=301,L]
+RewriteRule ^top-rated-product/?$ /parfums/ [R=301,L]
+RewriteRule ^about-us/?$ /maison/ [R=301,L]
+RewriteRule ^faqs/?$ /faq/ [R=301,L]
+RewriteRule ^term-and-conditions/?$ /cgv/ [R=301,L]
+RewriteRule ^cart/?$ /panier/ [R=301,L]
+RewriteRule ^cart-2/?$ /panier/ [R=301,L]
+RewriteRule ^checkout-2/?$ /panier/ [R=301,L]
+RewriteRule ^map-contact/?$ /contact/ [R=301,L]
+RewriteRule ^404-not-found/?$ / [R=301,L]
+RewriteRule ^sitemap/?$ / [R=301,L]
+RewriteRule ^liste-de-souhaits/?$ /parfums/ [R=301,L]
+RewriteRule ^wishlist/?$ /parfums/ [R=301,L]
+RewriteRule ^yith-compare/?$ /collection/ [R=301,L]
+</IfModule>
+
+ErrorDocument 404 /404.html
