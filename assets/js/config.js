@@ -77,7 +77,7 @@ window.MERCURA_CONFIG = {
   // Commande par WhatsApp : le bouton « Commander » ouvre WhatsApp avec le récapitulatif du panier.
   // Numéro au format international, chiffres uniquement (33 = France, sans le 0 initial).
   whatsapp: {
-    number: '33651865608',
-    display: '+33 6 51 86 56 08'
+    number: '33777005808',
+    display: '+33 7 77 00 58 08'
   }
 };
